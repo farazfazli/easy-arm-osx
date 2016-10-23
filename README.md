@@ -1,5 +1,5 @@
 # easy-arm-osx
-Compiling C/C++ for ARM targetting Android should be easy - now it is
+Compiling C/C++ for ARM on OS X targetting Android should be easy - now it is
 
 Ensure you have brew installed, then execute the following commands to install gcc-arm-none-eabi properly.
 
